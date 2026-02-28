@@ -1,4 +1,3 @@
-[index.html.txt](https://github.com/user-attachments/files/25618028/index.html.txt)
 <!DOCTYPE html>
 <html lang="ar">
 <head>
