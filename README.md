@@ -2,7 +2,7 @@
 <html lang="ar">
 <head>
 <meta charset="UTF-8">
-<title>Prefcat RP | 1.1 قوانين السيرفر</title>
+<title>Prefcat RP | قوانين السيرفر</title>
 
 <style>
 
